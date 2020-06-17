@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Hamsterick Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Derick Estrada`,
+      summary: `a motivated programmer who wants to learn about Infosecurity.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `My blog implementation using Gatsby.`,
+    siteUrl: `https://destrada-blog.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `hamsterico`,
+      github: `destradaHU`
     },
   },
   plugins: [
@@ -66,7 +67,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/logo512.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
