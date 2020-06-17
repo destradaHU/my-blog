@@ -15,9 +15,25 @@ collections:
     public_folder: ''
     path: '{{title}}/index'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: "settings"
+    label: "Setting"
+    files:
+      - label: "Contact Info"
+        name: contact_info
+        file: site/settings/contact_info.json
+        fields:
+          - { label: 'Phone', name: 'phone', widget: 'string' }
+          - { label: 'Email', name: 'email', widget: 'string' }
+          - label: 'Address' 
+            name: 'address'
+            widget: 'object' 
+            fields:
+              - {label: 'Country', name: 'country', widget: 'string'}
+              - {label: 'City', name: 'city', widget: 'string'}
+        
