@@ -3,9 +3,9 @@ title: Hello World
 date: 2020-06-18T03:53:14.866Z
 description: What to say in your first blog?
 ---
-### I've thinking a lot about what should my first post. It's very tempting to do just say "Hello World" and that's it.
+### I've thinking a lot about what should I say on my first post. It's very tempting to do just say "Hello World" and that's it.
 
-*It leaves me with a sense of just incompleteness for myself. So I'm going to try my best to leave a few more details about my journey to this point. To be fair I don't want to put Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.*
+*It leaves me with a sense of just emptiness for me. So I'm going to try my best to leave a few details about my journey to this point. To be fair, I don't want to put Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.*
 
 ### Doubt
 
@@ -37,7 +37,7 @@ Maybe I'm exaggerating on the matter, but believe me that this all I hear when a
 
 What? Career orientation never told about these nonsensical topics. But let's leave out my job hunt rant aside. It's not the scope of this hello world, but I'm trying my best to describe the journey.
 
-### You mentioned a Masters? 
+### You mentioned a Masters?
 
 Back to the story, for me I chose to keep researching. I really thought that opportunities would arise with a degree that not many people in my country can get it. I imagined that many companies and universities would just see my future curriculum and say: "I need to meet this guy". 
 
@@ -53,8 +53,7 @@ I went to Spain and spent one year, I learned about Information Security, Hackin
 
 In Kendrick Lamar's - Momma there is a lyric who always made me think about what it would felt my return to my home:
 
-> I know how people work I know the price of life, I'm knowin' how much it’s worth
-> I know what I know and I know it well not to ever forget
+> I know how people work I know the price of life, I'm knowin' how much it’s worth I know what I know and I know it well not to ever forget
 > Until I realized I didn’t know s*it
 > The day I came home
 
