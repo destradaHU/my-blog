@@ -3,7 +3,7 @@ title: Hello World
 date: 2020-06-18T03:53:14.866Z
 description: What to say in your first blog?
 ---
-### I've thinking a lot about what should I say on my first post. It's very tempting to do just say "Hello World" and that's it.
+### I've thinking a lot about what should I say on my first post. It's very tempting to do "Hello World" and that's it.
 
 *It leaves me with a sense of just emptiness for me. So I'm going to try my best to leave a few details about my journey to this point. To be fair, I don't want to put Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.*
 
@@ -53,8 +53,7 @@ I went to Spain and spent one year, I learned about Information Security, Hackin
 
 In Kendrick Lamar's - Momma there is a lyric who always made me think about what it would felt my return to my home:
 
-> I know how people work I know the price of life, I'm knowin' how much it’s worth I know what I know and I know it well not to ever forget
-> Until I realized I didn’t know s*it
+> I know how people work I know the price of life, I'm knowin' how much it’s worth I know what I know and I know it well not to ever forget Until I realized I didn’t know s*it
 > The day I came home
 
 The day I took the plane to return to my home, I keep hearing this song at the airport and thought: "This is it, this is the moment I've been waiting. I've no longer a simple Bachelor Computer Science. Now I'm a Cybersecurity expert, I know about security, it's the big day"
