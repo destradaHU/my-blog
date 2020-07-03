@@ -1,7 +1,10 @@
 import Typography from "typography"
-import Wordpress2016 from "typography-theme-wordpress-2016"
+import irvingTheme from "typography-theme-irving"
 
-Wordpress2016.overrideThemeStyles = () => {
+irvingTheme.bodyFontFamily = ["Roboto", "georgia", "sans-serif"]
+irvingTheme.headerWeight = 800
+
+irvingTheme.overrideThemeStyles = () => {
   return {
     "a.gatsby-resp-image-link": {
       boxShadow: `none`,
@@ -9,9 +12,9 @@ Wordpress2016.overrideThemeStyles = () => {
   }
 }
 
-delete Wordpress2016.googleFonts
+delete irvingTheme.googleFonts
 
-const typography = new Typography(Wordpress2016)
+const typography = new Typography(irvingTheme)
 
 // Hot reload typography in development.
 if (process.env.NODE_ENV !== `production`) {
