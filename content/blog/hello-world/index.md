@@ -3,9 +3,9 @@ title: Hello World
 date: 2020-06-18T03:53:14.866Z
 description: What to say in your first blog?
 ---
-### I've thinking a lot about what should my first post. It's very tempting to do just say "Hello World" and that's it.
+### I've thinking a lot about what should I say on my first post. It's very tempting to do "Hello World" and that's it.
 
-*It leaves me with a sense of just incompleteness for myself. So I'm going to try my best to leave a few more details about my journey to this point. To be fair I don't want to put Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.*
+*It leaves me with a sense of just emptiness for me. So I'm going to try my best to leave a few details about my journey to this point. To be fair, I don't want to put Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.*
 
 ### Doubt
 
@@ -15,7 +15,7 @@ Since 2018, I had a big problem what do I do with my future career once I step o
 
 For my worst reaction, it has been a nightmare of highs and downs. After I graduated from college I took a trip with my parents to D.C. and I was telling them about my future plans. Why? Because I'm close to my parents and they have given me good advice. 
 
-I told them that I was interested of keep studying, because for me studying has been just a wonderful journey. You do research on a specific topic, you learn the basic concepts, you review the materials before the test, then you hope for the best that everything that you put on the test will be alright. Perhaps my vision of study is not best and perhaps is just mediocre term for education. I always thought that with good education and good effort you will achieve good results. I guess is just something that everyone's parents program in your brain to be successful. 
+I told them that I was interested of keep studying, because for me studying has been a wonderful journey. You do research on a specific topic, you learn the basic concepts, you review the materials before the test, then you hope for the best that everything that you put on the test will be alright. Perhaps my vision of study is not best and perhaps is just mediocre term for education. I always thought that with good education and good effort you will achieve good results. I guess is just something that everyone's parents program in your brain to be successful. 
 
 I'm not trying to say that education is bad, but rather education without putting into practice is not enough. It doesn't matter if you learn a lot of stuff, if you don't apply the knowledge you will not learn where to put it. Let me rephrase it, knowledge without practice is just knowledge. Knowledge is good, you think you know something that others don't, you know that A is A. The problem starts when you start thinking "OK what do I do with A?". 
 
@@ -37,7 +37,7 @@ Maybe I'm exaggerating on the matter, but believe me that this all I hear when a
 
 What? Career orientation never told about these nonsensical topics. But let's leave out my job hunt rant aside. It's not the scope of this hello world, but I'm trying my best to describe the journey.
 
-### You mentioned a Masters? 
+### You mentioned a Masters?
 
 Back to the story, for me I chose to keep researching. I really thought that opportunities would arise with a degree that not many people in my country can get it. I imagined that many companies and universities would just see my future curriculum and say: "I need to meet this guy". 
 
@@ -53,9 +53,7 @@ I went to Spain and spent one year, I learned about Information Security, Hackin
 
 In Kendrick Lamar's - Momma there is a lyric who always made me think about what it would felt my return to my home:
 
-> I know how people work I know the price of life, I'm knowin' how much it’s worth
-> I know what I know and I know it well not to ever forget
-> Until I realized I didn’t know s*it
+> I know how people work I know the price of life, I'm knowin' how much it’s worth I know what I know and I know it well not to ever forget Until I realized I didn’t know s*it
 > The day I came home
 
 The day I took the plane to return to my home, I keep hearing this song at the airport and thought: "This is it, this is the moment I've been waiting. I've no longer a simple Bachelor Computer Science. Now I'm a Cybersecurity expert, I know about security, it's the big day"
