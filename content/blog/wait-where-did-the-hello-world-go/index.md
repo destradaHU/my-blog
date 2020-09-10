@@ -3,7 +3,7 @@ title: Wait, where did the "Hello World" go?
 date: 2020-09-10T04:13:13.754Z
 description: My experience as a recent Software Developer
 ---
-It's the third month that I've been working at CodeExitos as a Software Developer. It's the first job that is related to my career, meaning that every single hour of learning and learning finally would lead me to success, right!? I mean finally I’m here and I’m coding several lines of code that displays an image or a text or a button, so no more hurdles, right? Well, I’m going to share the experience in these three months and there are no complains about work culture, in fact that something I’m going to share in another post! 
+It's the third month that I've been working at CodeExitos as a Software Developer. It's the first job that is related to my career, meaning that every single hour of learning and learning finally would lead me to success, right!? I mean finally I’m here and I’m coding several lines of code that displays an image or a text or a button, so no more hurdles, right? Well, I’m going to share the experience in these three months.
 
 ## Welcome to Tech. Inc
 
@@ -13,15 +13,13 @@ For me it was an euphoric moment, but then many thoughts were rambling in my hea
 
 My first reaction was: “ALERT! Panic! Wait I’m not yet mentally prepared!” Although when you accept that contract you are now ready. The meeting started, my boss was explaining about the workflow, where to find information related to the company, and about the project that I’m going to work for the following months. I’m glad that I know some of the tools for the design and for the teamwork collaboration, although as soon I started to see the many things that I need to achieve in the following weeks, I started to panic! The meeting ended, they share many articles to set up my development environment and helped me during the process of installation. At this moment, I took the decision of learning everything of this development and practice during the weekend (I accepted the job on Friday).
 
-## “Hello World”? 
+## “Hello World”?
 
 ![Long code for printing a hello world](helloworld.jpg "This entire block of code prints Hello World")
 
 ([Source of image](https://codegolf.stackexchange.com/questions/4838/most-complex-hello-world-program-you-can-justify))
 
-Yes, this block of code is just to print a “Hello World” on the screen. I’m exaggerating on the statement because that’s what I was seeing the first day at job with the many lines of code. There were many things I could recognize that I was confident with, but that was the 20% of the entire project. What’s Redux? What’s Amplify? Why I’m having null errors? What in the world is a Saga? I don’t get it, what do I do? Sprint planning? Alright Git, what do you mean by CR? PR? Where I am? 
-I’m not going to technicalities because it’s not the point of the post but rather you might get the picture. I was seeing the same way that long block of code that was just printing “Hello World”. I was completely lost, during the first week my performance was very low. My coworker told me: “Do you need help?” and we regularly made some meetings for pair programming, but I was lacking something, very important for any job.
-
+Yes, this block of code is just to print a “Hello World” on the screen. I’m exaggerating on the statement because that’s what I was seeing the first day at job with the many lines of code. There were many things I could recognize that I was confident with, but that was the 20% of the entire project. What’s Redux? What’s Amplify? Why I’m having null errors? What in the world is a Saga? I don’t get it, what do I do? Sprint planning? Alright Git, what do you mean by CR? PR? Where I am?  I’m not going to technicalities because it’s not the point of the post but rather you might get the picture. I was seeing the same way that long block of code that was just printing “Hello World”. I was completely lost, during the first week my performance was very low. My coworker told me: “Do you need help?” and we regularly made some meetings for pair programming, but I was lacking something, very important for any job.
 
 ## S.O.S! I'm Sinking in The Tar Pit
 
