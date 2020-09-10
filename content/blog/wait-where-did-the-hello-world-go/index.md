@@ -15,7 +15,7 @@ My first reaction was: “ALERT! Panic! Wait I’m not yet mentally prepared!”
 
 ## “Hello World”?
 
-![Long code for printing a hello world](helloworld.jpg "This entire block of code prints Hello World")
+![Long code for printing a hello world](helloworld2.jpg "This entire block of code prints Hello World")
 
 ([Source of image](https://codegolf.stackexchange.com/questions/4838/most-complex-hello-world-program-you-can-justify))
 
